@@ -6,7 +6,8 @@ Datasets:
 - chicago_socioeconomic_data.sql
 
 Analysis file:
-Chicago Crimes and Socioeconomic.sql
+- Chicago Crimes and Socioeconomic.sql
+- Chicago Crimes and Socioeconomic Procedure n Transaction.sql
 
 Tools used:
 MySQL Workbench 8.0.36
